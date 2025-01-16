@@ -1,0 +1,1 @@
+/home/hootbu/Desktop/newMusicPlayer/build/Desktop_Qt_6_7_2-Debug/appnewMusicPlayer_autogen/include/../EWIEGA46WW/moc_filemanagebackend.cpp.json

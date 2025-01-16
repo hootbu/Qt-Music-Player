@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "FileManageBackend",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "path",
+                            "type": "std::string"
+                        }
+                    ],
+                    "name": "fileSearchUtf8",
+                    "returnType": "std::vector<std::string>"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "FileManageBackend",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "main.cpp",
+    "outputRevision": 68
+}

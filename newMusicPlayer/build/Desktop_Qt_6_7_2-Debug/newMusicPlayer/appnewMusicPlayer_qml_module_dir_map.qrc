@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/newMusicPlayer">/home/hootbu/Desktop/newMusicPlayer/build/Desktop_Qt_6_7_2-Debug/newMusicPlayer</file>
+
+  </qresource>
+</RCC>
